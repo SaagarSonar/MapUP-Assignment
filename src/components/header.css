@@ -1,0 +1,20 @@
+.header {
+  padding: 0;
+  background: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header-icon {
+  font-size: 20px;
+  padding: 0 16px;
+  cursor: pointer;
+}
+
+.header-buttons {
+  margin-right: 16px;
+}
+.header-buttons button {
+  margin-right: 10px;
+}

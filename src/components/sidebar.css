@@ -1,0 +1,30 @@
+.custom-sidebar {
+  background-color: #437db3;
+  color: #fff;
+}
+
+.sidebar-logo {
+  padding: 16px 0;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.sidebar-menu {
+  background-color: transparent;
+}
+
+.sidebar-menu-item {
+  color: #fff;
+}
+
+.sidebar-menu-item .anticon {
+  color: #fff;
+}
+
+.night-mode {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  color: #fff;
+}

@@ -1,4 +1,3 @@
-# MapUP-Assignment
 # MapUI-Assingment
 MapUI App
 MapUI is a React application that allows users to interact with a map interface using OpenStreetMap (OSM). The app provides various features to explore and interact with the map, including adding markers, selecting regions, and displaying region-specific information.
